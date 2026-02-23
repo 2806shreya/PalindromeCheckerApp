@@ -48,5 +48,11 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Shows startup message
 - Demonstrates program entry using main() method
 
+### ✅ UC2 – Hardcoded Palindrome Check
+
+- A hardcoded string ("madam") is used.
+- The string is reversed using a loop.
+- if-else condition checks whether it is a palindrome.
+- Result is printed on the console.
 ---
 
