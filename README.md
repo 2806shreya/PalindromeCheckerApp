@@ -55,4 +55,12 @@ The objective of the Palindrome Checker App is to design and implement a console
 - if-else condition checks whether it is a palindrome.
 - Result is printed on the console.
 ---
+### ✅ UC3 – Palindrome Check Using String Reverse
+
+- Loop (for loop) – Iterates through the string in reverse order.
+- String Immutability – Each concatenation creates a new String object.
+- String Concatenation (+) – Used to build the reversed string.
+- equals() Method – Compares actual string content.
+- Data Structure – String
+
 
