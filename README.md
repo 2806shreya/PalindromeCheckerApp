@@ -70,3 +70,12 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Two-Pointer Technique
 - Time Complexity Awareness (O(n))
 - Efficient memory usage (No extra string creation)
+
+### ✅ UC5 – Stack-Based Palindrome Checker
+
+- Stack (LIFO principle)
+- Push operation
+- Pop operation
+- Reversal logic using stack
+- Data Structure: Stack
+
