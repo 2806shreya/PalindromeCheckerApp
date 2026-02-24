@@ -63,4 +63,10 @@ The objective of the Palindrome Checker App is to design and implement a console
 - equals() Method – Compares actual string content.
 - Data Structure – String
 
+### ✅ UC4 – Character Array Based Palindrome Check
 
+- Character Array (char[])
+- Array Indexing
+- Two-Pointer Technique
+- Time Complexity Awareness (O(n))
+- Efficient memory usage (No extra string creation)
