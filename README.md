@@ -88,3 +88,11 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Inserting characters into a Deque
 - Removing characters from both front and rear
 - Comparing them until the Deque becomes empty
+
+## UC8 – Linked List Based Palindrome Checker
+
+- Implement palindrome checking using a Singly Linked List.
+- Strengthen understanding of linked list operations.
+- Apply Fast and Slow pointer technique.
+- Perform in-place reversal of the second half.
+- Compare both halves efficiently.
