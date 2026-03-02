@@ -83,3 +83,8 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Enqueuing characters into a Queue
 - Pushing characters into a Stack
 - Comparing dequeue (Queue) and pop (Stack) outputs
+
+### ✅ UC7 – Dequeue-Based Palindrome Checker
+- Inserting characters into a Deque
+- Removing characters from both front and rear
+- Comparing them until the Deque becomes empty
