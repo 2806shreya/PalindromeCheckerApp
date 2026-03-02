@@ -96,3 +96,10 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Apply Fast and Slow pointer technique.
 - Perform in-place reversal of the second half.
 - Compare both halves efficiently.
+
+## UC9 – Recursive Palindrome Checker
+
+- Implement palindrome checking using recursion.
+- Strengthen understanding of recursive problem solving.
+- Apply base condition to terminate recursion properly.
+- Utilize the call stack for managing recursive calls.
