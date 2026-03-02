@@ -79,3 +79,7 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Reversal logic using stack
 - Data Structure: Stack
 
+### ✅ UC6 – Queue-Based Palindrome Checker
+- Enqueuing characters into a Queue
+- Pushing characters into a Stack
+- Comparing dequeue (Queue) and pop (Stack) outputs
