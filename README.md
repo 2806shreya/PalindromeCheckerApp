@@ -111,3 +111,9 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Implement a reusable checkPalindrome() method
 - Use data structures (Stack/Array) for logic
 - Handle different input cases (case, spaces)
+
+## UC12 -  Strategy Pattern for Palindrome Algorithms 
+- Design a flexible palindrome checker using the Strategy Pattern
+- Implement multiple algorithms (Stack, Deque) via a common interface
+- Enable dynamic selection of palindrome logic at runtime
+- Apply OOP concepts like interfaces and polymorphism
