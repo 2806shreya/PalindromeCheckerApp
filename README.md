@@ -117,3 +117,9 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Implement multiple algorithms (Stack, Deque) via a common interface
 - Enable dynamic selection of palindrome logic at runtime
 - Apply OOP concepts like interfaces and polymorphism
+
+## UC13 -  Performance Comparison
+- Compare performance of different palindrome algorithms
+- Measure execution time using System.nanoTime()
+- Analyze efficiency of Stack and Deque approaches
+- Strengthen understanding of algorithm comparison
