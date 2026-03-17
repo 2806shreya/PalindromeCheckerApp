@@ -103,3 +103,11 @@ The objective of the Palindrome Checker App is to design and implement a console
 - Strengthen understanding of recursive problem solving.
 - Apply base condition to terminate recursion properly.
 - Utilize the call stack for managing recursive calls.
+
+## UC11 - Object-Oriented Palindrome Service
+
+- uild a Java console app to check palindromes
+- Apply OOP concepts like encapsulation
+- Implement a reusable checkPalindrome() method
+- Use data structures (Stack/Array) for logic
+- Handle different input cases (case, spaces)
